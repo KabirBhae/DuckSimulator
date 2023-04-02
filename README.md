@@ -1,6 +1,6 @@
 ## Getting Started
 
-This project is called Duck Simulator. It follows a few important design patterns like Adapter pattern, Factory pattern etc.
+This project is called Duck Simulator. It follows a few important design patterns: Adapter pattern, Decorator pattern, Factory pattern, Abstract Factory Patter, Composite Pattern, Observer Patter etc.
 
 ## Folder Structure
 
